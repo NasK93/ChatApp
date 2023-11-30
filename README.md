@@ -1,6 +1,11 @@
 # Membre du groupe :
 Michel, Milo, Nicolas, Anass
 
+# Compte pour ce connecter :
+user: azerty@gmail.com mdp: azerty
+user: test@test.com mdp: azerty
+
+
 # messagerie
 
 A new Flutter project.
